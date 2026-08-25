@@ -1,0 +1,12 @@
+# MATLAB/Simulink generated files
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.m~
+
+# Reproducible per-case intermediates (comparison/tuning artifacts remain tracked)
+results/nominal_results.mat
+results/wind_results.mat
+results/waypoint_results.mat
+results/manual_baseline.mat
